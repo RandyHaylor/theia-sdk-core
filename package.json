@@ -9,12 +9,7 @@
         "sdk"
     ],
     "dependencies": {
-        "com.unity.textmeshpro": "3.0.6",
-        "com.unity.nuget.newtonsoft-json": "3.2.1",
-        "com.unity.xr.oculus": "4.0.0",
-        "com.meta.xr.sdk.interaction": "60.0.0",
-        "com.meta.xr.sdk.core": "60.0.0",
-        "com.meta.xr.sdk.interaction.ovr": "60.0.0"
+        "com.unity.nuget.newtonsoft-json": "3.2.1"
     },
     "author": {
         "name": "HarmonEyes"
