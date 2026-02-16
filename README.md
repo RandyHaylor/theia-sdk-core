@@ -27,7 +27,7 @@ https://github.com/RandyHaylor/theia-sdk-core.git
 ## Requirements
 
 - Unity 2022.3 or later
-- Meta XR SDK (for Oculus/Meta Quest support)
+- Dependencies installed automatically: TextMeshPro, Newtonsoft.Json
 
 ## Version
 
