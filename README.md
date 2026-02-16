@@ -1,3 +1,5 @@
+<img src="Theia-sdk-unity-2022-3-packages.png" width="200px" alt="Theia SDK">
+
 # Theia SDK - Core Package
 
 Eye tracking SDK for Unity VR development.
