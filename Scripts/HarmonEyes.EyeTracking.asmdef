@@ -1,7 +1,10 @@
 {
     "name": "HarmonEyes.EyeTracking",
     "rootNamespace": "HarmonEyes.EyeTracking",
-    "references": [],
+    "references": [
+        "Unity.TextMeshPro",
+        "Unity.Newtonsoft.Json"
+    ],
     "includePlatforms": [],
     "excludePlatforms": [],
     "allowUnsafeCode": false,
