@@ -6,13 +6,16 @@ Eye tracking SDK for Unity VR development.
 
 ## Installation via Unity Package Manager
 
-1. Open Unity Package Manager (Window > Package Manager)
-2. Click the "+" button and select "Add package from git URL..."
-3. Paste this URL:
-
+**Unity Package Manager Import URL:**
 ```
 https://github.com/RandyHaylor/theia-sdk-core.git
 ```
+
+**How to install:**
+1. Open Unity Package Manager (Window > Package Manager)
+2. Click the "+" button and select "Add package from git URL..."
+3. Paste the URL above
+4. Click "Add"
 
 ## What's Included
 
@@ -34,7 +37,9 @@ Current version: 3.4.1
 
 ## Platform Samples
 
-After installing the core SDK, add platform-specific samples:
+After installing the core SDK, add platform-specific samples.
+
+**Unity Package Manager Import URLs** (paste in Unity: Window > Package Manager > + > Add package from git URL):
 
 ### Unity 2022.3 LTS Samples
 
