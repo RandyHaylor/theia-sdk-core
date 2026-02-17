@@ -37,7 +37,15 @@ Current version: 3.4.1
 
 ## Platform Samples
 
-After installing the core SDK, add platform-specific samples.
+After installing the core SDK, add platform-specific samples. Each sample is a separate package that installs to the Packages folder, then you import the sample content to your Assets folder where you can modify it.
+
+**Installation steps:**
+1. Install a sample package via Unity Package Manager (URLs below)
+2. Find the sample in Package Manager's package list
+3. Expand the "Samples" section in the package details
+4. Click "Import" to copy sample content to your Assets folder
+
+**⚠️ Important:** Install only ONE platform sample per project to avoid dependency conflicts.
 
 **Unity Package Manager Import URLs** (paste in Unity: Window > Package Manager > + > Add package from git URL):
 
